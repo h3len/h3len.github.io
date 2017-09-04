@@ -1,5 +1,5 @@
 ---
-title: hexo_next_post_copyright
+title: hexo next主题文章版权信息配置
 date: 2017-09-05 01:26:43
 tags:
 - next
