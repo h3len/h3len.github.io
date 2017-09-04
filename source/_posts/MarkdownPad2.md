@@ -1,6 +1,7 @@
 ---
 title: MarkdownPad2及注册码
 date: 2017-09-04 21:04:36
+disable_copyright: true
 tags:
 - markdown
 - 注册码
