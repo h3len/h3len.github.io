@@ -7,7 +7,7 @@ tags:
 categories:
 - Diary
 ---
-Hexo的next主题可通过配置在文章底部增加版权信息，另外通过修改让部分文章能不显版权信息
+Hexo的next主题可通过配置在文章底部增加版权信息，另外通过修改让部分文章能不显示版权信息
 ## 默认文章底部增加版权信息
 > themes/next/_config.yml 文件
 
@@ -20,7 +20,7 @@ post_copyright:
 ```
 达到效果如下图：
 ![](hexo-next-post-copyright/20170905013206.png)
-## 允许部分文章不显版权信息
+## 允许部分文章不显示版权信息
 > themes/next/layout/_macro/post-copyright.swig 文件中
 
 * 在开头加上
@@ -56,3 +56,4 @@ post_copyright:
 ---
 disable_copyright: true
 ```
+
