@@ -19,7 +19,7 @@ post_copyright:
   license_url: https://creativecommons.org/licenses/by-nc-nd/4.0/
 ```
 达到效果如下图：
-![](hexo-next-post-copyright/20170905013206.png)
+![20170905013206](http://ovsdspcnp.bkt.clouddn.com/20170905013206.png)
 ## 允许部分文章不显示版权信息
 > themes/next/layout/_macro/post-copyright.swig 文件中
 

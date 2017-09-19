@@ -35,4 +35,6 @@ GBPduHjWfJU1mZqcPM3BikjYKF6xKhlKIys3i1MU2eJHqWGImDHzWdD6xhMNLGVpbP2M5SN6bnxn2kSE
 初始的预览字体较小，可通过
   
 菜单：工具->选项->样式表 编辑css文件，修改各个font-size解决
-![](MarkdownPad2/20170904222112.png)
+![20170904222112](http://ovsdspcnp.bkt.clouddn.com/20170904222112.png)
+
+
